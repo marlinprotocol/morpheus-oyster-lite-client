@@ -1,3 +1,5 @@
+# morpheus-oyster-lite-client
+
 MORPHEUS NODE
 
 First, clone this repo.
@@ -22,4 +24,4 @@ Please visit MOR.software to sign up as a developer to be rewarded for your merg
 
 
 MOR.software is also the place to build, submit, deplloy, and manage all of your Smart Agents.
-# morpheus-oyster-lite-client
+
